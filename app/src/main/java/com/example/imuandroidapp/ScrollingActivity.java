@@ -105,11 +105,11 @@ public class ScrollingActivity extends AppCompatActivity {
                         .append(Float.toString(tx))
                         .append(" μT")
                         .append("\n")
-                        .append("Geomagnetic field strength along the x axis: ")
+                        .append("Geomagnetic field strength along the y axis: ")
                         .append(Float.toString(ty))
                         .append(" μT")
                         .append("\n")
-                        .append("Geomagnetic field strength along the x axis: ")
+                        .append("Geomagnetic field strength along the z axis: ")
                         .append(Float.toString(tz))
                         .append(" μT")
                         .append("\n");
